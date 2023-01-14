@@ -12,3 +12,6 @@ description: こんにちは、私はPJSEKAIプレーヤーと他のリズムゲ
 - [x] プロセカ | 한글
 - [x] プロセカ | 中国語（繁体字
 - [x] プロセカ | rehearsal edit. 
+
+## [スネーク](https://open.spotify.com/playlist/2y9dxZ2zh1ZwCY8zXW946O?si=E-eEcFQdQ3Sycmgqgtid6A&utm_source=copy-link) 
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/117464679/204690278-e3bad35a-fc8d-4604-9dc6-3951aca0c276.svg)
