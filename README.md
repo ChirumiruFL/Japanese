@@ -2,10 +2,10 @@
 ![abnormality-dancing-girl-vocaloid](https://user-images.githubusercontent.com/117464679/211882563-592c52be-b82a-4ee5-9640-df673d150d4d.gif)
 description: こんにちは、私はPJSEKAIプレーヤーと他のリズムゲームのプレーヤーです! ってな感じです。<3 あなたがこれを読んでいてとても幸せです!
 
-というのが、私の役割の一つです: Mafuyu, Empty miku, kagmine rin, Hatsune miku, Puro, squidDog, emu otori(now), Monika, A Bread, Flandere, Sakuya, Reimu, girlfriend, Yoisaki kanade, cirno, CV01
+というのが、私の役割の一つです: Mafuyu, Empty miku, kagmine rin, Hatsune miku, Puro, squidDog, emu otori(now), Monika, A Bread, Flandere, Sakuya, Reimu, girlfriend, Yoisaki kanade, cirno
 
 ## エスタドール
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/891490390794964992?theme=%?bg=ff66bC&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=おそらくプロジェクトセカイをプレイしている)](https://discord.com/users/891490390794964992)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/891490390794964992?theme=%?bg=ff66bC&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=おそらくプロセカで遊んでいる)](https://discord.com/users/891490390794964992)
 
 - [x] プロセカ | 日本
 - [x] プロセカ | global
